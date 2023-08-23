@@ -8,6 +8,7 @@ int main(void){
 
 	int a1;
 
+	int a2;
 
 
 
