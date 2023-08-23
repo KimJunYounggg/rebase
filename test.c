@@ -10,6 +10,8 @@ int main(void){
 
 	int a2;
 
+	int a3;
+
 
 
 	print("a : %d\n",a);
