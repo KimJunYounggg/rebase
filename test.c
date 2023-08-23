@@ -14,6 +14,8 @@ int main(void){
 
 	int a8;
 
+	int a9;
+
 
 	print("a : %d\n",a);
 
