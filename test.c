@@ -18,6 +18,8 @@ int main(void){
 
 	int a4;
 
+	int a5:
+
 
 	print("a : %d\n",a);
 
